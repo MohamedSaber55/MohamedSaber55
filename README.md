@@ -3,7 +3,7 @@
 <table>
           <tr>
               <td align="center">
-                        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=6571FF&center=true&vCenter=true&lines=Hi!+I+am+Ahmed+Farag+%F0%9F%91%8F;Front+End+Developer+%F0%9F%92%BB">
+                        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=6571FF&center=true&vCenter=true&lines=Hi!+I+am+Mohamed+Saber+%F0%9F%91%8F;Full+Stack+Developer+%F0%9F%92%BB">
               </td>
           </tr>
 </table>
