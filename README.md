@@ -111,6 +111,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohamedSaber55/MohamedSaber55/output/snake.svg" alt="Snake animation" />
-
 ###
