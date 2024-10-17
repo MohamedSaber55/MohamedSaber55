@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">😀Passionate about web development technologies!<br>🎓I'm studying computer science 4th level at FCAI - Bani Suef<br>👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, TypeScript, ES6, React, Next & Back-End like JavaScript, TypeScript, Node, Express, MongoDB, Mongoose, Socket.IO etc.<br>💪🏼 Future Goals: Learning new web technologies - stay up to date with new tech - Never stop creating new ideas.<br>💬 Ask me about Full-Stack, or literally anything!<br>📫 You can reach me with the links below</p>
+<p align="left">😀Passionate about web development technologies!<br>🎓Bachelor's degree in Information Technology, Faculty of Computers and Artificial Intelligence, Beni-Suef University<br>👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, TypeScript, ES6, React, Next & Back-End like JavaScript, TypeScript, Node, Express, MongoDB, Mongoose, Socket.IO etc.<br>💪🏼 Future Goals: Learning new web technologies - stay up to date with new tech - Never stop creating new ideas.<br>💬 Ask me about Full-Stack, or literally anything!<br>📫 You can reach me with the links below</p>
 
 ###
 
