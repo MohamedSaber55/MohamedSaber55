@@ -12,6 +12,21 @@
 
 ###
 
+<h2 align="left">Work Experience 📌</h2>
+
+<div align="left">
+  <h3>Nasser Pharmacy Affiliated with Remza Investment Co W.L.L</h3>
+  <p>
+<strong>Position:</strong> Front End Developer<br>
+     <strong>Location:</strong> Remote<br>
+     <strong>Duration:</strong> Aug 2024 - Sep 2024</p>
+  
+  <h3>AiTech</h3>
+  <p>
+    <strong>Position:</strong> Front End Developer<br>
+     <strong>Location:</strong> On-site, 6-October, Egypt<br>
+     <strong>Duration:</strong> Jan 2024 - Jul 2024</p>
+</div>
 
 ###
 <h2 align="left">Technologies 📌</h2>
