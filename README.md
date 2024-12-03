@@ -125,4 +125,9 @@
 
 ###
 
+<h2 align="left"> Languages and Stats📌</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSaber55&show_icons=true&locale=en&layout=compact" alt="MohamedSaber55" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&locale=en" alt="MohamedSaber55" /></p>
+
 ###
