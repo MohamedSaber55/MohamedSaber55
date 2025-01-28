@@ -19,7 +19,7 @@
   <p>
 <strong>Position:</strong> Front End Developer<br>
      <strong>Location:</strong> Remote<br>
-     <strong>Duration:</strong> Aug 2024 - Sep 2024</p>
+     <strong>Duration:</strong> Aug 2024 - Present</p>
   
   <h3>AiTech</h3>
   <p>
