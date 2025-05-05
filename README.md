@@ -15,11 +15,17 @@
 <h2 align="left">Work Experience 📌</h2>
 
 <div align="left">
+  <h3>EngoSoft</h3>
+  <p>
+<strong>Position:</strong> Front End Developer<br>
+     <strong>Location:</strong> OnSite, Cairo, Egypt<br>
+     <strong>Duration:</strong> May 2025 - Present</p>
+  
   <h3>Nasser Pharmacy Affiliated with Remza Investment Co W.L.L</h3>
   <p>
 <strong>Position:</strong> Front End Developer<br>
      <strong>Location:</strong> Remote<br>
-     <strong>Duration:</strong> Aug 2024 - Present</p>
+     <strong>Duration:</strong> Aug 2024 - Apr 2025</p>
   
   <h3>AiTech</h3>
   <p>
