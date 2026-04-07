@@ -1,139 +1,170 @@
-<h2 align="left">Hello, there👋</h2>
+&lt;!-- Animated Header --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMED%20SABER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header"/&gt;
+&lt;/div&gt;
 
-###
+&lt;!-- Typing Animation --&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://git.io/typing-svg"&gt;
+    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js+Expert;Building+Scalable+Web+Applications;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-<h1 align="left">I'm Mohamed Saber Full Stack Developer</h1>
+&lt;!-- Profile Views & Social Badges --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" /&gt;
+  &lt;img src="https://img.shields.io/github/followers/MohamedSaber55?label=Followers&style=flat-square&color=0e75b6" alt="followers" /&gt;
+  &lt;img src="https://img.shields.io/github/stars/MohamedSaber55?label=Stars&style=flat-square&color=0e75b6" alt="stars" /&gt;
+&lt;/p&gt;
 
-<h2 align="left">About me 📌</h2>
+---
 
-###
+## 🎯 About Me
 
-<p align="left">😀Passionate about web development technologies!<br>🎓Bachelor's degree in Information Technology, Faculty of Computers and Artificial Intelligence, Beni-Suef University<br>👨‍💻 I’m currently working on Front-End web development technologies like JavaScript, TypeScript, ES6, React, Next & Back-End like JavaScript, TypeScript, Node, Express, MongoDB, Mongoose, Socket.IO etc.<br>💪🏼 Future Goals: Learning new web technologies - stay up to date with new tech - Never stop creating new ideas.<br>💬 Ask me about Full-Stack, or literally anything!<br>📫 You can reach me with the links below</p>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width="60%"&gt;
 
-###
+**`Digital Craftsman (Developer/Freelancer)`**
 
-<h2 align="left">Work Experience 📌</h2>
+- 🔭 Currently working at **EngoSoft** as Front-End Developer
+- 🌱 Exploring **System Design** & **Cloud Architecture**
+- 👯 Open to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed! 😄
+- 📍 Based in **Cairo, Egypt** 🇪🇬
 
-<div align="left">
-  <h3>EngoSoft</h3>
-  <p>
-<strong>Position:</strong> Front End Developer<br>
-     <strong>Location:</strong> OnSite, Cairo, Egypt<br>
-     <strong>Duration:</strong> May 2025 - Present</p>
+&lt;/td&gt;
+&lt;td width="40%" align="center"&gt;
+  &lt;img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" /&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+---
+
+## 💼 Professional Experience
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td align="center" width="100"&gt;
+      &lt;img src="https://img.shields.io/badge/2025--Present-EngoSoft-blue?style=for-the-badge&logo=react&logoColor=white" alt="EngoSoft"/&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;h3&gt;Front End Developer @ EngoSoft&lt;/h3&gt;
+      &lt;p&gt;📍 OnSite, Cairo, Egypt | 🚀 Building modern web experiences&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;
+      &lt;img src="https://img.shields.io/badge/2024--2025-Nasser%20Pharmacy-green?style=for-the-badge&logo=redux&logoColor=white" alt="Nasser Pharmacy"/&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;h3&gt;Front End Developer @ Nasser Pharmacy&lt;/h3&gt;
+      &lt;p&gt;🌐 Remote | 🏥 Healthcare tech solutions&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td align="center"&gt;
+      &lt;img src="https://img.shields.io/badge/2024-AiTech-purple?style=for-the-badge&logo=javascript&logoColor=white" alt="AiTech"/&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;h3&gt;Front End Developer @ AiTech&lt;/h3&gt;
+      &lt;p&gt;📍 6-October, Egypt | 🤖 AI-powered applications&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+&lt;p align="left"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,mui,js,ts,jquery,react,redux,nextjs&perline=6" alt="frontend skills" /&gt;
+&lt;/p&gt;
+
+### Backend & Database
+&lt;p align="left"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql,sequelize,socketio,nestjs&perline=8" alt="backend skills" /&gt;
+&lt;/p&gt;
+
+### Design & Tools
+&lt;p align="left"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,npm,yarn,git,github,python,vscode&perline=10" alt="tools" /&gt;
+&lt;/p&gt;
+
+---
+
+## 📊 GitHub Analytics
+
+&lt;div align="center"&gt;
   
-  <h3>Nasser Pharmacy Affiliated with Remza Investment Co W.L.L</h3>
-  <p>
-<strong>Position:</strong> Front End Developer<br>
-     <strong>Location:</strong> Remote<br>
-     <strong>Duration:</strong> Aug 2024 - Apr 2025</p>
-  
-  <h3>AiTech</h3>
-  <p>
-    <strong>Position:</strong> Front End Developer<br>
-     <strong>Location:</strong> On-site, 6-October, Egypt<br>
-     <strong>Duration:</strong> Jan 2024 - Jul 2024</p>
-</div>
+&lt;!-- GitHub Stats with Premium Theme --&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&ring_color=6AD3F7" width="49%" alt="stats" /&gt;
+&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSaber55&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="49%" alt="streak" /&gt;
 
-###
-<h2 align="left">Technologies 📌</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://nestjs.com/img/logo.svg" height="40" alt="nestjs logo"  />
-</div>
+&lt;!-- Top Languages --&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8" width="49%" alt="languages" /&gt;
+&lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSaber55&theme=react-dark&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" width="49%" alt="activity graph" /&gt;
 
-###
+&lt;/div&gt;
 
-<h2 align="left">Design & more Tech 📌</h2>
+&lt;!-- GitHub Trophies --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=MohamedSaber55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="trophies" /&gt;
+&lt;/div&gt;
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+## 🐍 Contribution Snake
 
-<h2 align="left">Social Links 📌</h2>
+&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedSaber55/MohamedSaber55/output/github-contribution-grid-snake-dark.svg" /&gt;
+  &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedSaber55/MohamedSaber55/output/github-contribution-grid-snake.svg" /&gt;
+  &lt;img alt="github-snake" src="https://raw.githubusercontent.com/MohamedSaber55/MohamedSaber55/output/github-contribution-grid-snake.svg" /&gt;
+&lt;/picture&gt;
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamedsaber5050/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/mo7amedsaber5050/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/mo7amedsaber5050/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/Mo7amed_Saber3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="mailto:mohammed saber.abdeltawab@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+201210529969" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌐 Connect With Me
 
-<h2 align="left"> Languages and Stats📌</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedSaber55&show_icons=true&locale=en&layout=compact" alt="MohamedSaber55" /></p>
+&lt;p align="center"&gt;
+  &lt;a href="https://www.linkedin.com/in/mohamedsaber5050/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.facebook.com/mo7amedsaber5050/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.instagram.com/mo7amedsaber5050/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://t.me/Mo7amed_Saber3" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:mohammed saber.abdeltawab@gmail.com" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://api.whatsapp.com/send?phone=+201210529969" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&locale=en" alt="MohamedSaber55" /></p>
+&lt;!-- Spotify Now Playing (Optional - requires Spotify integration) --&gt;
+&lt;!-- &lt;div align="center"&gt;
+  &lt;img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" /&gt;
+&lt;/div&gt; --&gt;
 
-###
+---
+
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/&gt;
+&lt;/div&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;b&gt;💙 Thanks for visiting my profile! Let's build something amazing together! 🚀&lt;/b&gt;
+&lt;/p&gt;
