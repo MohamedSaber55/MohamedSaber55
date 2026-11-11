@@ -1,8 +1,19 @@
-# Hi, I'm Mohamed Saber
+<div align="center">
+  <img src="./assets/header.svg" alt="Mohamed Saber — Software Engineer" width="100%"/>
+</div>
 
-**Software Engineer** based in Egypt, building web applications, Odoo ERP solutions, and AI chatbots for businesses in Egypt and the Gulf.
+<p align="center">
+  <a href="https://www.mohamed-saber.com/en"><img src="https://img.shields.io/badge/Website-mohamed--saber.com-111827?style=flat-square&labelColor=F3F4F6" alt="Website"/></a>
+  <a href="https://www.mohamed-saber.com/en/projects"><img src="https://img.shields.io/badge/Projects-Case_Studies-111827?style=flat-square&labelColor=F3F4F6" alt="Projects"/></a>
+  <a href="https://www.mohamed-saber.com/en/services"><img src="https://img.shields.io/badge/Services-View-111827?style=flat-square&labelColor=F3F4F6" alt="Services"/></a>
+  <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=111827&labelColor=F3F4F6" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/WhatsApp-Message-111827?style=flat-square&logo=whatsapp&logoColor=111827&labelColor=F3F4F6" alt="WhatsApp"/></a>
+  <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/Telegram-Message-111827?style=flat-square&logo=telegram&logoColor=111827&labelColor=F3F4F6" alt="Telegram"/></a>
+</p>
 
-[Website](https://www.mohamed-saber.com/en) · [Projects](https://www.mohamed-saber.com/en/projects) · [Services](https://www.mohamed-saber.com/en/services) · [LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/) · [WhatsApp](https://api.whatsapp.com/send?phone=201210529969) · [Telegram](https://t.me/Mo7amed_Saber3)
+<p align="center">Building reliable web applications, Odoo ERP solutions, and AI chatbots with a focus on clean engineering and practical business outcomes.</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### A little more about me
 
@@ -47,16 +58,23 @@ const mohamed = {
 };
 ```
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 ### GitHub
 
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&icon_color=111827&text_color=374151" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151" alt="Top languages"/>
-</div>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=374151&text_color=374151&ring_color=111827" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151" alt="Top languages"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Contact
 
-If you'd like to discuss a project or collaboration, feel free to reach out:  
+If you'd like to discuss a project or collaboration, feel free to reach out.
+
 **[mohamed-saber.com/en/contact](https://www.mohamed-saber.com/en/contact)** · **[LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/)** · **[WhatsApp](https://api.whatsapp.com/send?phone=201210529969)** · **[Telegram](https://t.me/Mo7amed_Saber3)**
 
-*I enjoy building practical, reliable products and connecting with people — feel free to say hi.*
+<br/>
+
+<sub>I enjoy building practical, reliable products and connecting with people — feel free to say hi.</sub>
