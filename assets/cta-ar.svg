@@ -1,8 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="62" viewBox="0 0 380 62" role="img" aria-label="←  اطلب عرض سعر لمشروعك">
-  <defs><linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#eab308"/></linearGradient><clipPath id="p"><rect x="2" y="2" width="376" height="58" rx="29"/></clipPath>
-    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
-  <rect x="2" y="2" width="376" height="58" rx="29" fill="url(#brand)"/>
-  <g clip-path="url(#p)"><rect y="0" width="90" height="62" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" from="-120" to="420" dur="3s" repeatCount="indefinite"/></rect></g>
-  <rect x="1" y="1" width="378" height="60" rx="30" fill="none" stroke="#fb923c" stroke-opacity="0.7"><animate attributeName="stroke-opacity" values="0.2;0.9;0.2" dur="2.4s" repeatCount="indefinite"/></rect>
-  <text x="190" y="39" text-anchor="middle" font-family="'Segoe UI',Tahoma,'Noto Sans Arabic',Arial,sans-serif" font-size="20" font-weight="800" fill="#0d0d0d">←  اطلب عرض سعر لمشروعك</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56" role="img" aria-label="اطلب استشارة لمشروعك">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="312" height="48" rx="14" fill="url(#bg2)"/>
+  <rect x="4.5" y="4.5" width="311" height="47" rx="13.5" fill="none" stroke="url(#stroke)" stroke-width="1.5"/>
+  <text x="168" y="36" text-anchor="middle" font-family="'Segoe UI', Tahoma, 'Noto Sans Arabic', Arial, sans-serif" font-size="18" font-weight="700" fill="#F9FAFB">اطلب استشارة لمشروعك</text>
+  <text x="28" y="36" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#F59E0B">←</text>
 </svg>

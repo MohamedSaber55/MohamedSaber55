@@ -1,46 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Mohamed Saber — Software Engineer">
-  <defs><linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#eab308"/></linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f97316" stop-opacity="0.45"/><stop offset="1" stop-color="#f97316" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1c1c1c" stroke-width="1"/></pattern>
-    <clipPath id="card"><rect width="1000" height="340" rx="22"/></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohamed Saber — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#0A0F1C"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#FCD34D"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.8" cy="0.25" r="0.5">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.15" cy="0.85" r="0.45">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#1F2937" stroke-width="1" opacity="0.7"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="360" rx="24"/></clipPath>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
   </defs>
+
   <g clip-path="url(#card)">
-    <rect width="1000" height="340" fill="#0d0d0d"/>
-    <rect width="1000" height="340" fill="url(#grid)"/>
-    <circle r="190" fill="url(#glow)"><animate attributeName="cx" values="760;860;760" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="120;220;120" dur="11s" repeatCount="indefinite"/></circle>
-    <circle r="120" fill="url(#glow)" opacity="0.5"><animate attributeName="cx" values="120;260;120" dur="13s" repeatCount="indefinite"/><animate attributeName="cy" values="300;250;300" dur="10s" repeatCount="indefinite"/></circle>
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <ellipse cx="980" cy="70" rx="260" ry="180" fill="url(#glowA)" filter="url(#soft)">
+      <animate attributeName="cx" values="960;1010;960" dur="10s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="180" cy="320" rx="240" ry="160" fill="url(#glowB)" filter="url(#soft)">
+      <animate attributeName="cx" values="160;220;160" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
   </g>
-  <rect x="0.5" y="0.5" width="999" height="339" rx="22" fill="none" stroke="#262626"/>
-  <rect x="0.5" y="0.5" width="999" height="339" rx="22" fill="none" stroke="url(#brand)" stroke-width="1.5" stroke-dasharray="120 2880" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-3000" dur="7s" repeatCount="indefinite"/></rect>
-  <circle cx="30" cy="30" r="6" fill="#f97316"/><circle cx="52" cy="30" r="6" fill="#eab308"/><circle cx="74" cy="30" r="6" fill="#404040"/>
-  <text x="96" y="35" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="12" fill="#a3a3a3">~/mohamed-saber.com</text>
-  <line x1="0" y1="56" x2="1000" y2="56" stroke="#262626"/>
-  
-    <text x="44" y="128" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fb923c">$ whoami</text>
-    <clipPath id="c0"><rect x="44" y="110" width="0" height="26"><animate attributeName="width" from="0" to="82.8" dur="0.5s" begin="0.6s" fill="freeze"/></rect></clipPath>
-    <clipPath id="r0"><rect x="44" y="132" width="0" height="26"><animate attributeName="width" from="0" to="344" dur="0.9s" begin="1.1s" fill="freeze"/></rect></clipPath>
-    <text x="44" y="150" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fafafa" clip-path="url(#r0)">mohamed-saber  // software engineer</text>
-    <text x="44" y="174" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fb923c">$ stack</text>
-    <clipPath id="c1"><rect x="44" y="156" width="0" height="26"><animate attributeName="width" from="0" to="73.2" dur="0.5s" begin="2.1s" fill="freeze"/></rect></clipPath>
-    <clipPath id="r1"><rect x="44" y="178" width="0" height="26"><animate attributeName="width" from="0" to="344" dur="0.9s" begin="2.6s" fill="freeze"/></rect></clipPath>
-    <text x="44" y="196" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fafafa" clip-path="url(#r1)">MERN · Next.js · NestJS · Odoo · AI</text>
-    <text x="44" y="220" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fb923c">$ markets</text>
-    <clipPath id="c2"><rect x="44" y="202" width="0" height="26"><animate attributeName="width" from="0" to="92.39999999999999" dur="0.5s" begin="3.6s" fill="freeze"/></rect></clipPath>
-    <clipPath id="r2"><rect x="44" y="224" width="0" height="26"><animate attributeName="width" from="0" to="276.8" dur="0.9s" begin="4.1s" fill="freeze"/></rect></clipPath>
-    <text x="44" y="242" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fafafa" clip-path="url(#r2)">Egypt · Saudi · UAE · Kuwait</text>
-    <text x="44" y="266" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#fb923c">$ status</text>
-    <clipPath id="c3"><rect x="44" y="248" width="0" height="26"><animate attributeName="width" from="0" to="82.8" dur="0.5s" begin="5.1s" fill="freeze"/></rect></clipPath>
-    <clipPath id="r3"><rect x="44" y="270" width="0" height="26"><animate attributeName="width" from="0" to="276.8" dur="0.9s" begin="5.6s" fill="freeze"/></rect></clipPath>
-    <text x="44" y="288" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="16" fill="#eab308" clip-path="url(#r3)">● available for new projects</text>
-  <rect x="44" y="294" width="9" height="18" fill="#f97316"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-  <g><g><rect x="0" y="0" width="54" height="30" rx="8" fill="#161616" stroke="#262626"/><text x="27" y="20" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#f97316">&lt;/&gt;</text>
-     <animateTransform attributeName="transform" type="translate" values="560,48;560,38;560,48" dur="4s" repeatCount="indefinite"/></g><g><rect x="0" y="0" width="54" height="30" rx="8" fill="#161616" stroke="#262626"/><text x="27" y="20" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#f97316">{ }</text>
-     <animateTransform attributeName="transform" type="translate" values="630,58;630,48;630,58" dur="5s" repeatCount="indefinite"/></g><g><rect x="0" y="0" width="54" height="30" rx="8" fill="#161616" stroke="#262626"/><text x="27" y="20" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#f97316">AI</text>
-     <animateTransform attributeName="transform" type="translate" values="700,48;700,38;700,48" dur="6s" repeatCount="indefinite"/></g><g><rect x="0" y="0" width="54" height="30" rx="8" fill="#161616" stroke="#262626"/><text x="27" y="20" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#f97316">ERP</text>
-     <animateTransform attributeName="transform" type="translate" values="770,58;770,48;770,58" dur="7s" repeatCount="indefinite"/></g></g>
-  <line x1="530" y1="84" x2="530" y2="304" stroke="#262626"/>
-  <text x="565" y="182" font-family="'Segoe UI',Tahoma,'Noto Sans Arabic',Arial,sans-serif" font-size="50" font-weight="800" fill="#fafafa" letter-spacing="-1">Mohamed</text>
-  <text x="565" y="238" font-family="'Segoe UI',Tahoma,'Noto Sans Arabic',Arial,sans-serif" font-size="50" font-weight="800" fill="url(#brand)" letter-spacing="-1">Saber</text>
-  <text x="956" y="302" text-anchor="end" font-family="'Segoe UI',Tahoma,'Noto Sans Arabic',Arial,sans-serif" font-size="24" font-weight="700" fill="#fb923c">محمد صابر</text>
-  <text x="565" y="302" font-family="ui-monospace,'SFMono-Regular','Cascadia Code',Consolas,'Liberation Mono',monospace" font-size="13" fill="#a3a3a3">MERN · Odoo · AI · EG / GCC</text>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="24" fill="none" stroke="#1F2937"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="url(#accent)" stroke-opacity="0.35"/>
+
+  <!-- top bar -->
+  <rect x="0" y="0" width="1200" height="54" fill="#0B1020" opacity="0.55"/>
+  <circle cx="34" cy="27" r="6" fill="#F59E0B"/>
+  <circle cx="56" cy="27" r="6" fill="#38BDF8"/>
+  <circle cx="78" cy="27" r="6" fill="#374151"/>
+  <text x="104" y="32" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="13" fill="#9CA3AF">mohamed-saber.com · software engineer · enterprise delivery</text>
+  <line x1="0" y1="54" x2="1200" y2="54" stroke="#1F2937"/>
+
+  <!-- left terminal panel -->
+  <g transform="translate(44,84)">
+    <rect width="470" height="236" rx="16" fill="#0F172A" fill-opacity="0.85" stroke="#1F2937"/>
+    <rect x="0.5" y="0.5" width="469" height="235" rx="15.5" fill="none" stroke="#334155" stroke-opacity="0.35"/>
+    <text x="22" y="38" font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="14" fill="#6B7280">profile.ts</text>
+    <line x1="0" y1="54" x2="470" y2="54" stroke="#1F2937"/>
+    <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="15">
+      <text x="22" y="84" fill="#38BDF8">const</text><text x="72" y="84" fill="#E5E7EB"> engineer = {</text>
+      <text x="40" y="112" fill="#9CA3AF">name:</text><text x="95" y="112" fill="#FCD34D"> "Mohamed Saber"</text><text x="250" y="112" fill="#E5E7EB">,</text>
+      <text x="40" y="140" fill="#9CA3AF">focus:</text><text x="100" y="140" fill="#A7F3D0"> ["Web", "Odoo ERP", "AI"]</text><text x="360" y="140" fill="#E5E7EB">,</text>
+      <text x="40" y="168" fill="#9CA3AF">markets:</text><text x="118" y="168" fill="#FCD34D"> "Egypt &amp; GCC"</text><text x="265" y="168" fill="#E5E7EB">,</text>
+      <text x="40" y="196" fill="#9CA3AF">quality:</text><text x="118" y="196" fill="#A7F3D0"> "Scalable · Secure · Bilingual"</text>
+      <text x="22" y="224" fill="#E5E7EB">};</text>
+    </g>
+    <rect x="278" y="208" width="9" height="18" fill="#F59E0B">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- right content -->
+  <g transform="translate(560,108)">
+    <rect x="0" y="0" width="210" height="30" rx="15" fill="#111827" stroke="#1F2937"/>
+    <circle cx="16" cy="15" r="4" fill="#22C55E"/>
+    <text x="30" y="20" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#D1D5DB">Available for new projects</text>
+
+    <text x="0" y="88" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#F9FAFB" letter-spacing="-1">Mohamed</text>
+    <text x="0" y="148" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#gold)" letter-spacing="-1">Saber</text>
+    <text x="2" y="186" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#93C5FD">Software Engineer</text>
+    <text x="2" y="216" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="16" fill="#9CA3AF">Web Platforms · Odoo ERP · AI Chatbots · Arabic/English (RTL)</text>
+
+    <g transform="translate(0,238)">
+      <g transform="translate(0,0)"><rect width="104" height="30" rx="8" fill="#111827" stroke="#1F2937"/><text x="52" y="20" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="12.5" fill="#FCD34D">Next.js</text></g>
+      <g transform="translate(112,0)"><rect width="92" height="30" rx="8" fill="#111827" stroke="#1F2937"/><text x="46" y="20" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="12.5" fill="#FCD34D">NestJS</text></g>
+      <g transform="translate(212,0)"><rect width="76" height="30" rx="8" fill="#111827" stroke="#1F2937"/><text x="38" y="20" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="12.5" fill="#FCD34D">Odoo</text></g>
+      <g transform="translate(296,0)"><rect width="112" height="30" rx="8" fill="#111827" stroke="#1F2937"/><text x="56" y="20" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="12.5" fill="#FCD34D">AI &amp; Bots</text></g>
+    </g>
+  </g>
+
+  <text x="1156" y="330" text-anchor="end" font-family="'Segoe UI', Tahoma, 'Noto Sans Arabic', Arial, sans-serif" font-size="15" fill="#6B7280">Building reliable digital products for businesses in Egypt &amp; the Gulf</text>
 </svg>
