@@ -63,10 +63,12 @@ const mohamed = {
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=111827&icon_color=374151&text_color=374151&ring_color=111827" alt="GitHub stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=111827&text_color=374151" alt="Top languages"/>
+  <a href="https://github.com/MohamedSaber55"><img src="https://img.shields.io/badge/GitHub-MohamedSaber55-111827?style=flat-square&logo=github&logoColor=111827&labelColor=F3F4F6" alt="GitHub profile"/></a>
+  <a href="https://github.com/MohamedSaber55?tab=followers"><img src="https://img.shields.io/github/followers/MohamedSaber55?label=Followers&style=flat-square&color=111827&labelColor=F3F4F6" alt="Followers"/></a>
+  <a href="https://github.com/MohamedSaber55?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-111827?style=flat-square&labelColor=F3F4F6" alt="Repositories"/></a>
 </p>
+
+<p align="center"><a href="https://github.com/MohamedSaber55">Explore my repositories and contributions on GitHub →</a></p>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
