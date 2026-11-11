@@ -26,12 +26,6 @@ I'm a **Full-Stack Developer** at **EngoSoft** (Cairo, Egypt), where I design an
 
 Over the past few years I've built software with **Nasser Pharmacy** and **AiTech**, delivering dashboards, client portals and integrations that people actually use every day. I hold a **B.Sc. in Information Technology** from **Beni-Suef University**, and I work bilingually — **Arabic & English, RTL-first**.
 
-- 🌐 **Web platforms & dashboards** — React, Next.js, TypeScript, Node.js — end to end, from design to deployment
-- 🧩 **Odoo ERP** — custom modules, workflows and third-party integrations tailored to each business
-- 🤖 **AI chatbots & automation** — assistants and pipelines that quietly save teams hours every week
-- 🎨 **RTL-first interfaces** — polished bilingual UIs that are designed for Arabic, not translated into it
-- 💼 **Freelance & consulting** — helping agencies and businesses in Egypt & the GCC ship faster
-
 ## 🐍 Contribution Snake
 
 <div align="center">
