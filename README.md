@@ -26,6 +26,12 @@ I build **web platforms**, **Odoo ERP customizations** and **AI chatbot solution
 `2024 → 2025` **Nasser Pharmacy (Remza Investment Co.)** · Front-End Developer — Remote
 `2024` **AiTech** · Front-End Developer — 6th of October City
 
+🚀 **Now**
+
+🔭 **Building** — AI chatbots & Odoo ERP integrations at EngoSoft
+🌱 **Improving** — bilingual Arabic/English product UX, RTL-first interfaces
+💬 **Ask me about** — Next.js dashboards, Odoo customization, chatbot automation
+
 ## 💼 What I Build
 
 | 🌐 **Web Platforms** | 🧩 **Odoo ERP** |
@@ -46,6 +52,39 @@ More case studies on [mohamed-saber.com/en/projects](https://www.mohamed-saber.c
 | **Kidentials** | Multi-vendor marketplace |
 | **Dr. Sally Mounir** | Therapy practice website with online booking |
 | **Moqauel** | Contractor management SaaS |
+
+## ⭐ Featured Repos
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/MohamedSaber55/Weather-App-Mobile">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Weather-App-Mobile&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Weather-App-Mobile&hide_border=true" alt="Weather-App-Mobile — React Native weather dashboard"/>
+          </picture>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MohamedSaber55/Movies-TVs-Project">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Movies-TVs-Project&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Movies-TVs-Project&hide_border=true" alt="Movies & TV Shows Website"/>
+          </picture>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MohamedSaber55/shop-system-frontend">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=shop-system-frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=shop-system-frontend&hide_border=true" alt="Shop system frontend with .NET API"/>
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -117,12 +156,13 @@ More case studies on [mohamed-saber.com/en/projects](https://www.mohamed-saber.c
   <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:mohamed.saber.abdeltawab@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:C084FC&height=90&section=footer" width="100%" alt="wave"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views"/>
   <br/><br/>
