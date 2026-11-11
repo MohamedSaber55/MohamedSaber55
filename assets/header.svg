@@ -1,18 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mohamed Saber — Software Engineer">
-  <rect width="1200" height="220" fill="#FFFFFF"/>
-  <rect x="0" y="0" width="1200" height="1" fill="#E5E7EB"/>
-  <rect x="0" y="219" width="1200" height="1" fill="#E5E7EB"/>
-  <rect x="56" y="52" width="4" height="116" fill="#111827"/>
-
-  <text x="84" y="96" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="46" font-weight="700" fill="#111827" letter-spacing="-0.5">Mohamed Saber</text>
-  <text x="86" y="132" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="22" font-weight="500" fill="#374151">Software Engineer</text>
-  <text x="86" y="164" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="16" fill="#6B7280">Web Applications · Odoo ERP · AI Chatbots &amp; Automation · Egypt &amp; GCC</text>
-
-  <g font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="13" fill="#374151">
-    <rect x="860" y="58" width="284" height="104" fill="#F9FAFB" stroke="#E5E7EB"/>
-    <text x="884" y="86" fill="#6B7280">Focus</text>
-    <text x="884" y="112" fill="#111827">Web platforms &amp; dashboards</text>
-    <text x="884" y="134" fill="#111827">Odoo customization &amp; integrations</text>
-    <text x="884" y="156" fill="#111827">AI assistants &amp; workflows</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Mohamed Saber — Software Engineer">
+  <rect width="1200" height="180" fill="#FFFFFF"/>
+  <rect x="60" y="156" width="1080" height="1" fill="#E5E7EB"/>
+  <text x="60" y="82" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#111827" letter-spacing="-0.6">Mohamed Saber</text>
+  <text x="60" y="118" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="400" fill="#4B5563">Software Engineer — Web Applications, Odoo ERP, AI Chatbots</text>
+  <text x="1140" y="118" text-anchor="end" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="15" fill="#6B7280">Egypt · Egypt &amp; GCC</text>
 </svg>
