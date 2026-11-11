@@ -1,39 +1,62 @@
-# Mohamed Saber
-**Software Engineer**  
-Egypt · Working with businesses in Egypt and the Gulf
+# Hi, I'm Mohamed Saber
 
-[Website](https://www.mohamed-saber.com/en) · [Projects](https://www.mohamed-saber.com/en/projects) · [Services](https://www.mohamed-saber.com/en/services) · [Contact](https://www.mohamed-saber.com/en/contact) · [LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/) · [WhatsApp](https://api.whatsapp.com/send?phone=201210529969) · [Telegram](https://t.me/Mo7amed_Saber3)
+**Software Engineer** based in Egypt, building web applications, Odoo ERP solutions, and AI chatbots for businesses in Egypt and the Gulf.
 
----
+[Website](https://www.mohamed-saber.com/en) · [Projects](https://www.mohamed-saber.com/en/projects) · [Services](https://www.mohamed-saber.com/en/services) · [LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/) · [WhatsApp](https://api.whatsapp.com/send?phone=201210529969) · [Telegram](https://t.me/Mo7amed_Saber3)
 
-## About
-I design and build web applications, Odoo ERP customizations, and AI chatbot solutions. My focus is on clear requirements, maintainable code, and reliable delivery.
+### A little more about me
 
-**Availability:** Open to freelance projects, consulting, and long-term collaboration.
+```ts
+const mohamed = {
+  name: "Mohamed Saber",
+  role: "Software Engineer",
+  location: "Egypt",
+  markets: ["Egypt", "GCC"],
+  education: "B.Sc. Information Technology — Beni-Suef University (Computers & AI)",
 
-## Services
-- **[Web Applications & Dashboards](https://www.mohamed-saber.com/en/services/web-development)** — Custom platforms, internal tools, and customer-facing products.
-- **[Odoo ERP Solutions](https://www.mohamed-saber.com/en/services/odoo-erp-solutions)** — Implementation, customization, and integrations tailored to business workflows.
-- **[AI Chatbots & Automation](https://www.mohamed-saber.com/en/services/chatbot-development)** — Conversational assistants and workflow automation.
+  focus: [
+    "Web applications & dashboards",
+    "Odoo ERP customization & integrations",
+    "AI chatbots & workflow automation",
+    "Bilingual (Arabic/English) and RTL-first interfaces",
+  ],
 
-## Selected Work
-- **[Saudi Internet Packages Platform](https://www.mohamed-saber.com/en/projects/saudi-internet-packages-platform)** — Bilingual platform with admin dashboard and WhatsApp flow.
-- **[Kidentials Multi-Vendor Marketplace](https://www.mohamed-saber.com/en/projects/kidentials-multi-vendor-marketplace)** — Multi-vendor e-commerce marketplace.
-- **[Dr. Sally Mounir Therapy & Booking Platform](https://www.mohamed-saber.com/en/projects/dr-sally-mounir-therapy-and-booking-platform)** — Booking and client-access platform.
-- **[Moqauel Contractor Management SaaS](https://www.mohamed-saber.com/en/projects/moqauel-contractor-management-saas-platform)** — SaaS for contractor operations and workflows.
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "NestJS", "REST APIs", "GraphQL"],
+    data: ["MongoDB", "PostgreSQL"],
+    erpAndAutomation: ["Odoo", "Python", "Integrations", "AI chatbots"],
+    practices: ["Maintainable architecture", "Performance", "SEO", "Clear documentation"],
+  },
 
-[View all projects →](https://www.mohamed-saber.com/en/projects)
+  experience: [
+    { company: "EngoSoft", location: "Cairo", role: "Front-End Developer", period: "May 2025 – Present" },
+    { company: "Nasser Pharmacy (Remza Investment Co.)", location: "Remote", role: "Front-End Developer", period: "Aug 2024 – Apr 2025" },
+    { company: "AiTech", location: "6th of October", role: "Front-End Developer", period: "Jan 2024 – Jul 2024" },
+  ],
 
-## Technology
-React, Next.js, TypeScript, Node.js, NestJS, MongoDB, PostgreSQL, GraphQL, Odoo, Python, Tailwind CSS.
+  selectedWork: [
+    "Saudi Internet Packages Platform",
+    "Kidentials Multi-Vendor Marketplace",
+    "Dr. Sally Mounir Therapy & Booking Platform",
+    "Moqauel Contractor Management SaaS",
+  ],
 
-## Experience
-- **EngoSoft**, Cairo — Front-End Developer (May 2025 – Present)
-- **Nasser Pharmacy** (Remza Investment Co.), Remote — Front-End Developer (Aug 2024 – Apr 2025)
-- **AiTech**, 6th of October — Front-End Developer (Jan 2024 – Jul 2024)
+  availability: "Open to freelance projects, consulting, and long-term collaboration",
+  contact: "https://www.mohamed-saber.com/en/contact",
+};
+```
 
-## Contact
-- [mohamed-saber.com/en/contact](https://www.mohamed-saber.com/en/contact)
-- [linkedin.com/in/mohamedsaber5050](https://www.linkedin.com/in/mohamedsaber5050/)
-- [WhatsApp: +20 121 052 9969](https://api.whatsapp.com/send?phone=201210529969)
-- [Telegram: @Mo7amed_Saber3](https://t.me/Mo7amed_Saber3)
+### GitHub
+
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&icon_color=111827&text_color=374151" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151" alt="Top languages"/>
+</div>
+
+### Contact
+
+If you'd like to discuss a project or collaboration, feel free to reach out:  
+**[mohamed-saber.com/en/contact](https://www.mohamed-saber.com/en/contact)** · **[LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/)** · **[WhatsApp](https://api.whatsapp.com/send?phone=201210529969)** · **[Telegram](https://t.me/Mo7amed_Saber3)**
+
+*I enjoy building practical, reliable products and connecting with people — feel free to say hi.*
