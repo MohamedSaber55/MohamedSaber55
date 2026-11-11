@@ -1,114 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mohamed Saber — Software Engineer. Web platforms, Odoo ERP, AI chatbots.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mohamed Saber — Software Engineer. Web platforms, Odoo ERP, AI chatbots.">
   <style>
-    .orb-a { animation: drift-a 16s ease-in-out infinite; }
-    .orb-b { animation: drift-b 20s ease-in-out infinite; }
-    .orb-c { animation: drift-a 13s ease-in-out infinite reverse; }
-    @keyframes drift-a { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(46px, 26px); } }
-    @keyframes drift-b { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-40px, -30px); } }
-    .cursor { animation: blink 1.1s steps(1, end) infinite; }
-    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    .w1 { animation: drift1 24s linear infinite; }
+    .w2 { animation: drift2 17s linear infinite; }
+    @keyframes drift1 { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @keyframes drift2 { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    .dot  { animation: bob 9s ease-in-out infinite; }
+    .dot2 { animation: bob 13s ease-in-out infinite reverse; }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
   </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#0E1A33"/>
-      <stop offset="1" stop-color="#101231"/>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
     </linearGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60A5FA"/>
-      <stop offset="0.5" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#C084FC"/>
-    </linearGradient>
-    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.5"/>
-      <stop offset="0.5" stop-color="#A78BFA" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.42"/>
-    </linearGradient>
-    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.07"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#93C5FD"/>
-    </pattern>
-    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="55"/>
-    </filter>
-    <clipPath id="frame">
-      <rect x="1" y="1" width="1198" height="358" rx="24"/>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="220" rx="20"/>
     </clipPath>
   </defs>
 
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#dots)" opacity="0.10"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="220" fill="url(#bgGrad)"/>
 
-    <circle class="orb orb-a" cx="170" cy="60" r="150" fill="#2563EB" opacity="0.30" filter="url(#soft)"/>
-    <circle class="orb orb-b" cx="1040" cy="300" r="160" fill="#7C3AED" opacity="0.26" filter="url(#soft)"/>
-    <circle class="orb orb-c" cx="690" cy="10" r="110" fill="#0EA5E9" opacity="0.16" filter="url(#soft)"/>
+    <!-- back wave -->
+    <path class="w2" fill="#FFFFFF" opacity="0.10" d="M0,175 C150,140 300,210 450,175 C600,140 750,210 900,175 C1050,140 1200,210 1350,175 C1500,140 1650,210 1800,175 C1950,140 2100,210 2250,175 C2400,140 2550,210 2700,175 C2850,140 3000,210 3150,175 C3300,140 3450,210 3600,175 L3600,220 L0,220 Z"/>
 
-    <rect x="-320" y="0" width="300" height="360" fill="url(#shine)">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="1640 0" dur="9s" repeatCount="indefinite"/>
-    </rect>
+    <!-- floating dots -->
+    <circle class="dot"  cx="950" cy="58"  r="5" fill="#FFFFFF" opacity="0.30"/>
+    <circle class="dot2" cx="1035" cy="98" r="3" fill="#FFFFFF" opacity="0.25"/>
+    <circle class="dot"  cx="1108" cy="46" r="4" fill="#FFFFFF" opacity="0.28"/>
+    <circle class="dot2" cx="884" cy="40"  r="3" fill="#FFFFFF" opacity="0.20"/>
+    <circle class="dot"  cx="1000" cy="135" r="4" fill="#FFFFFF" opacity="0.22"/>
+    <circle class="dot2" cx="410" cy="26"  r="3" fill="#FFFFFF" opacity="0.15"/>
 
-    <!-- Left column -->
-    <rect x="64" y="58" width="52" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="64" y="94" font-family="'Cascadia Code','Consolas','JetBrains Mono','Courier New',monospace" font-size="13" letter-spacing="3" fill="#7DD3FC">SOFTWARE ENGINEER · FULL-STACK</text>
-    <text x="63" y="152" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-1" fill="url(#nameGrad)">Mohamed Saber</text>
-    <rect x="64" y="170" width="220" height="3" rx="1.5" fill="url(#accent)">
-      <animate attributeName="opacity" values="0.9;0.4;0.9" dur="4s" repeatCount="indefinite"/>
-    </rect>
-    <text x="64" y="202" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#94A3B8">Web platforms · Odoo ERP · AI chatbots</text>
+    <!-- front wave -->
+    <path class="w1" fill="#FFFFFF" opacity="0.16" d="M0,150 C200,110 400,190 600,150 C800,110 1000,190 1200,150 C1400,110 1600,190 1800,150 C2000,110 2200,190 2400,150 L2400,220 L0,220 Z"/>
 
-    <!-- Chips row 1 -->
-    <rect x="64" y="228" width="60" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="94" y="249" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">React</text>
-    <rect x="134" y="228" width="74" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="171" y="249" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Next.js</text>
-    <rect x="218" y="228" width="95" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="265" y="249" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">TypeScript</text>
-    <rect x="323" y="228" width="74" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="360" y="249" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Node.js</text>
-
-    <!-- Chips row 2 -->
-    <rect x="64" y="268" width="67" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="97" y="289" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Python</text>
-    <rect x="141" y="268" width="53" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="167" y="289" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Odoo</text>
-    <rect x="204" y="268" width="102" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="255" y="289" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">AI Chatbots</text>
-    <rect x="316" y="268" width="88" height="32" rx="9" fill="#FFFFFF" fill-opacity="0.05" stroke="#94A3B8" stroke-opacity="0.28"/>
-    <text x="360" y="289" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">REST APIs</text>
-
-    <text x="64" y="330" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#64748B">Based in Egypt · Arabic / English</text>
-
-    <!-- Terminal card -->
-    <rect x="680" y="64" width="460" height="232" rx="14" fill="#0C1526" stroke="#223252" stroke-opacity="0.8"/>
-    <circle cx="704" cy="90" r="5.5" fill="#EF4444" opacity="0.9"/>
-    <circle cx="722" cy="90" r="5.5" fill="#F59E0B" opacity="0.9"/>
-    <circle cx="740" cy="90" r="5.5" fill="#22C55E" opacity="0.9"/>
-    <text x="1116" y="94" text-anchor="end" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="12" fill="#526180">profile.ts</text>
-    <line x1="680" y1="108" x2="1140" y2="108" stroke="#223252" stroke-width="1"/>
-
-    <text x="704" y="140" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14"><tspan fill="#C084FC">const</tspan><tspan fill="#94A3B8"> </tspan><tspan fill="#7DD3FC">engineer</tspan><tspan fill="#64748B"> = {</tspan></text>
-    <text x="726" y="166" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14"><tspan fill="#82AAFF">stack:</tspan><tspan fill="#64748B">     [</tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#86EFAC">"Next.js"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#86EFAC">"Node"</tspan><tspan fill="#64748B">],</tspan></text>
-    <text x="726" y="192" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14"><tspan fill="#82AAFF">focus:</tspan><tspan fill="#64748B">     [</tspan><tspan fill="#86EFAC">"Odoo ERP"</tspan><tspan fill="#64748B">, </tspan><tspan fill="#86EFAC">"AI chatbots"</tspan><tspan fill="#64748B">],</tspan></text>
-    <text x="726" y="218" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14"><tspan fill="#82AAFF">based:</tspan><tspan fill="#64748B">     </tspan><tspan fill="#86EFAC">"Egypt"</tspan><tspan fill="#64748B">, markets: [</tspan><tspan fill="#86EFAC">"EG"</tspan><tspan fill="#64748B">,</tspan><tspan fill="#86EFAC">"GCC"</tspan><tspan fill="#64748B">],</tspan></text>
-    <text x="726" y="244" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14"><tspan fill="#82AAFF">open:</tspan><tspan fill="#64748B">      </tspan><tspan fill="#FCD34D">true</tspan><tspan fill="#64748B">,</tspan></text>
-    <text x="704" y="270" font-family="'Cascadia Code','Consolas','Courier New',monospace" font-size="14" fill="#64748B">};</text>
-    <rect class="cursor" x="726" y="258" width="9" height="17" fill="#7DD3FC"/>
-
-    <circle cx="690" cy="325" r="4.5" fill="#34D399">
-      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text x="702" y="330" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#64748B">Open for freelance &amp; consulting</text>
-
-    <rect x="1" y="1" width="1198" height="358" rx="24" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+    <!-- text -->
+    <text x="64" y="52" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" letter-spacing="4" fill="#FFFFFF" opacity="0.75">SOFTWARE ENGINEER</text>
+    <text x="63" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF">Mohamed Saber</text>
+    <text x="64" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#FFFFFF" opacity="0.82">Web Platforms · Odoo ERP · AI Chatbots</text>
   </g>
+
+  <rect x="0" y="0" width="1200" height="220" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.18"/>
 </svg>

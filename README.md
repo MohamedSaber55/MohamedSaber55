@@ -5,86 +5,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&height=44&lines=Front-End+Developer+%40+EngoSoft;Odoo+ERP+customization+%26+integrations;AI+chatbots+%26+workflow+automation;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Always+shipping%2C+always+learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=640&height=40&lines=Front-End+Developer+%40+EngoSoft;Web+platforms+%C2%B7+Odoo+ERP+%C2%B7+AI+chatbots;Freelance+%26+consulting+across+Egypt+%26+GCC" alt="Typing SVG"/>
 </div>
-
-## 🧠 About Me
-
-I build **web platforms**, **Odoo ERP customizations** and **AI chatbot solutions** for clients across **Egypt & the GCC** — with a focus on clear requirements, maintainable code, and outcomes the business can actually measure.
-
-| | |
-|---|---|
-| 🏢 **Current role** | Front-End Developer @ **EngoSoft** — Cairo |
-| 🎓 **Education** | B.Sc. Information Technology — Beni-Suef University (Computers & AI) |
-| 🌍 **Languages & markets** | Arabic / English · RTL-first interfaces · Egypt & GCC |
-| ⚡ **Into right now** | AI chatbots, workflow automation, Odoo integrations |
-| 📬 **Open to** | Freelance projects · consulting · long-term collaboration |
-
-**Experience**
-
-`2025 → now` **EngoSoft** · Front-End Developer — Cairo
-`2024 → 2025` **Nasser Pharmacy (Remza Investment Co.)** · Front-End Developer — Remote
-`2024` **AiTech** · Front-End Developer — 6th of October City
-
-🚀 **Now**
-
-🔭 **Building** — AI chatbots & Odoo ERP integrations at EngoSoft
-🌱 **Improving** — bilingual Arabic/English product UX, RTL-first interfaces
-💬 **Ask me about** — Next.js dashboards, Odoo customization, chatbot automation
-
-## 💼 What I Build
-
-| 🌐 **Web Platforms** | 🧩 **Odoo ERP** |
-|---|---|
-| Dashboards & full-stack apps with **React**, **Next.js** and **Node.js** — fast, bilingual and maintainable. | Custom modules, workflows and third-party integrations that make day-to-day operations run themselves. |
-
-| 🤖 **AI & Automation** | 🌍 **RTL-First Interfaces** |
-|---|---|
-| Chatbots and automated workflows that answer customers and remove repetitive work from the team. | Bilingual **Arabic / English** products designed right-to-left from the first wireframe, not retrofitted. |
-
-## 🗂️ Selected Work
-
-More case studies on [mohamed-saber.com/en/projects](https://www.mohamed-saber.com/en/projects).
-
-| Project | What it does |
-|---|---|
-| **Saudi Internet Packages** | Comparison platform for Saudi internet providers |
-| **Kidentials** | Multi-vendor marketplace |
-| **Dr. Sally Mounir** | Therapy practice website with online booking |
-| **Moqauel** | Contractor management SaaS |
-
-## ⭐ Featured Repos
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/MohamedSaber55/Weather-App-Mobile">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Weather-App-Mobile&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Weather-App-Mobile&hide_border=true" alt="Weather-App-Mobile — React Native weather dashboard"/>
-          </picture>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MohamedSaber55/Movies-TVs-Project">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Movies-TVs-Project&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=Movies-TVs-Project&hide_border=true" alt="Movies & TV Shows Website"/>
-          </picture>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MohamedSaber55/shop-system-frontend">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=shop-system-frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedSaber55&repo=shop-system-frontend&hide_border=true" alt="Shop system frontend with .NET API"/>
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.mohamed-saber.com/en"><img src="https://img.shields.io/badge/-Website-2563EB?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:mohamed.saber.abdeltawab@gmail.com"><img src="https://img.shields.io/badge/-Email-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
 </div>
+
+## 👋 About
+
+Front-End Developer at **EngoSoft** (Cairo) building **web platforms**, **Odoo ERP customizations** and **AI chatbot solutions** for clients across **Egypt & the GCC**. B.Sc. IT — Beni-Suef University. Previously at Nasser Pharmacy and AiTech.
+
+- 🌐 Dashboards & full-stack apps — **React, Next.js, Node.js**
+- 🧩 Odoo modules, workflows & third-party integrations
+- 🤖 Chatbots & workflow automation
+- 🌍 Arabic / English, RTL-first interfaces
 
 ## 🛠️ Tech Stack
 
@@ -100,45 +39,18 @@ More case studies on [mohamed-saber.com/en/projects](https://www.mohamed-saber.c
 
 <div align="center">
   <img src="https://img.shields.io/badge/Odoo-ERP_Customization-714B67?style=flat-square&logo=Odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/REST_APIs-Design_%26_Integration-2563EB?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/AI_Chatbots-%26_Workflow_Automation-8B5CF6?style=flat-square" alt="AI chatbots"/>
+  <img src="https://img.shields.io/badge/AI_Chatbots-%26_Automation-8B5CF6?style=flat-square" alt="AI chatbots"/>
 </div>
 
-## 📊 GitHub Stats
+## ⭐ Featured Repos
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-          <img src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-        </picture>
-      </td>
-    </tr>
-  </table>
+| Repo | About | |
+|---|---|---|
+| **[Weather-App-Mobile](https://github.com/MohamedSaber55/Weather-App-Mobile)** | Instrument-panel weather dashboard — React Native (Expo), Android & iOS | ![stars](https://img.shields.io/github/stars/MohamedSaber55/Weather-App-Mobile?style=flat&label=stars&color=2563EB) |
+| **[Movies-TVs-Project](https://github.com/MohamedSaber55/Movies-TVs-Project)** | Movies & TV Shows website | ![stars](https://img.shields.io/github/stars/MohamedSaber55/Movies-TVs-Project?style=flat&label=stars&color=2563EB) |
+| **[shop-system-frontend](https://github.com/MohamedSaber55/shop-system-frontend)** | Shop system frontend integrated with a .NET API | ![stars](https://img.shields.io/github/stars/MohamedSaber55/shop-system-frontend?style=flat&label=stars&color=2563EB) |
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MohamedSaber55&hide_border=true&locale=en&background=0D1117&ring=38BDF8&fire=E75A4C&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B"/>
-    <img src="https://streak-stats.demolab.com?user=MohamedSaber55&hide_border=true&locale=en&background=FFFFFF" alt="GitHub streak"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?user=MohamedSaber55&bg_color=0D1117&color=94A3B8&line=38BDF8&point=C084FC&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-    <img src="https://github-activity-graph.vercel.app/graph?user=MohamedSaber55&bg_color=FFFFFF&color=334155&line=2563EB&point=F97316&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MohamedSaber55&no-bg=true&no-frame=true&column=7&margin-w=6&margin-h=6&theme=tokyonight"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=MohamedSaber55&no-bg=true&no-frame=true&column=7&margin-w=6&margin-h=6&theme=flat" alt="GitHub profile trophies"/>
-  </picture>
-</div>
+💼 Freelance & client case studies → **[mohamed-saber.com/en/projects](https://www.mohamed-saber.com/en/projects)**
 
 ## 🐍 Contribution Snake
 
@@ -149,22 +61,12 @@ More case studies on [mohamed-saber.com/en/projects](https://www.mohamed-saber.c
   </picture>
 </div>
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.mohamed-saber.com/en/contact"><img src="https://img.shields.io/badge/Book_a_Call-mohamed--saber.com-2563EB?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="mailto:mohamed.saber.abdeltawab@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:C084FC&height=90&section=footer" width="100%" alt="wave"/>
+  <img src="./assets/divider.svg" width="100%" alt=""/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile views"/>
   <br/><br/>
   <sub>© 2026 Mohamed Saber · Built with ❤️ from Egypt 🇪🇬</sub>
 </div>
