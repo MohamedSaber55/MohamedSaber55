@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=640&height=40&lines=Front-End+Developer+%40+EngoSoft;Web+platforms+%C2%B7+Odoo+ERP+%C2%B7+AI+chatbots;Freelance+%26+consulting+across+Egypt+%26+GCC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer+%40+EngoSoft;Web+platforms+%C2%B7+Odoo+ERP+%C2%B7+AI+chatbots;Freelance+%26+consulting+across+Egypt+%26+GCC" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -16,41 +16,27 @@
   <a href="mailto:mohamed.saber.abdeltawab@gmail.com"><img src="https://img.shields.io/badge/-Email-DB4437?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-## 👋 About
+## 👋 About Me
 
-Front-End Developer at **EngoSoft** (Cairo) building **web platforms**, **Odoo ERP customizations** and **AI chatbot solutions** for clients across **Egypt & the GCC**. B.Sc. IT — Beni-Suef University. Previously at Nasser Pharmacy and AiTech.
+I'm a **Full-Stack Developer** at **EngoSoft** (Cairo, Egypt), where I design and ship **web platforms**, **Odoo ERP customizations** and **AI chatbot solutions** for real businesses across **Egypt & the GCC** — from the first wireframe all the way to production.
 
-- 🌐 Dashboards & full-stack apps — **React, Next.js, Node.js**
-- 🧩 Odoo modules, workflows & third-party integrations
-- 🤖 Chatbots & workflow automation
-- 🌍 Arabic / English, RTL-first interfaces
+Over the past few years I've built software with **Nasser Pharmacy** and **AiTech**, delivering dashboards, client portals and integrations that people actually use every day. I hold a **B.Sc. in Information Technology** from **Beni-Suef University**, and I work bilingually — **Arabic & English, RTL-first**.
 
-## 🛠️ Tech Stack
+- 🌐 **Web platforms & dashboards** — React, Next.js, TypeScript, Node.js — end to end, from design to deployment
+- 🧩 **Odoo ERP** — custom modules, workflows and third-party integrations tailored to each business
+- 🤖 **AI chatbots & automation** — assistants and pipelines that quietly save teams hours every week
+- 🎨 **RTL-first interfaces** — polished bilingual UIs that are designed for Arabic, not translated into it
+- 💼 **Freelance & consulting** — helping agencies and businesses in Egypt & the GCC ship faster
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,graphql,mongodb&perline=8&theme=dark" alt="Core stack"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,python,git,github,html,css&perline=8&theme=dark" alt="Also working with"/>
-  </a>
-</div>
+## 🌐 My Website
+
+<a href="https://www.mohamed-saber.com/en">
+  <img src="./assets/website-hero.png" alt="mohamed-saber.com — Mohamed Saber, Full Stack Developer · MERN · Odoo · AI" width="100%"/>
+</a>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Odoo-ERP_Customization-714B67?style=flat-square&logo=Odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/AI_Chatbots-%26_Automation-8B5CF6?style=flat-square" alt="AI chatbots"/>
+  <sub><b><a href="https://www.mohamed-saber.com/en">mohamed-saber.com</a></b> — my portfolio & services: client projects, case studies, and a direct line for freelance work.</sub>
 </div>
-
-## ⭐ Featured Repos
-
-| Repo | About | |
-|---|---|---|
-| **[Weather-App-Mobile](https://github.com/MohamedSaber55/Weather-App-Mobile)** | Instrument-panel weather dashboard — React Native (Expo), Android & iOS | ![stars](https://img.shields.io/github/stars/MohamedSaber55/Weather-App-Mobile?style=flat&label=stars&color=2563EB) |
-| **[Movies-TVs-Project](https://github.com/MohamedSaber55/Movies-TVs-Project)** | Movies & TV Shows website | ![stars](https://img.shields.io/github/stars/MohamedSaber55/Movies-TVs-Project?style=flat&label=stars&color=2563EB) |
-| **[shop-system-frontend](https://github.com/MohamedSaber55/shop-system-frontend)** | Shop system frontend integrated with a .NET API | ![stars](https://img.shields.io/github/stars/MohamedSaber55/shop-system-frontend?style=flat&label=stars&color=2563EB) |
-
-💼 Freelance & client case studies → **[mohamed-saber.com/en/projects](https://www.mohamed-saber.com/en/projects)**
 
 ## 🐍 Contribution Snake
 
