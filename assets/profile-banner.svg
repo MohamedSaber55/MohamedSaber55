@@ -1,38 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Mohamed Saber — Full Stack Developer</title>
-  <desc id="desc">Web platforms, Odoo ERP and AI integrations. Based in Egypt, working worldwide.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#152132"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#ff6b2b"/><stop offset="1" stop-color="#ffab66"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a2b9d4" stroke-opacity=".055"/></pattern>
-  </defs>
-  <rect width="1200" height="380" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="20" fill="url(#grid)"/>
-  <rect x="48" y="52" width="40" height="4" rx="2" fill="url(#accent)"/>
+  <desc id="desc">A minimal light banner with charcoal typography and a warm orange accent. Web, Odoo and AI.</desc>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="16" fill="#fafaf9" stroke="#e7e5e4"/>
+  <rect x="56" y="56" width="28" height="3" rx="1.5" fill="#ea580c"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="104" y="60" fill="#a5b3c5" font-size="13" font-weight="600" letter-spacing="3">SOFTWARE ENGINEERING</text>
-    <text x="48" y="141" fill="#f0f6fc" font-size="62" font-weight="700" letter-spacing="-2">Mohamed Saber</text>
-    <text x="50" y="185" fill="#ff9459" font-size="24" font-weight="500">Full Stack Developer</text>
-    <text x="50" y="237" fill="#c2ccda" font-size="19">Web platforms · Odoo ERP · AI integrations</text>
-    <line x1="50" y1="268" x2="650" y2="268" stroke="#334155"/>
-    <circle cx="56" cy="306" r="4" fill="#ff9459"/>
-    <text x="72" y="312" fill="#a5b3c5" font-size="15">EGYPT &amp; THE GULF</text>
-    <text x="262" y="312" fill="#53657e" font-size="15">/</text>
-    <text x="284" y="312" fill="#a5b3c5" font-size="15">WORKING WORLDWIDE</text>
+    <text x="56" y="140" fill="#1c1917" font-size="60" font-weight="600" letter-spacing="-2">Mohamed Saber</text>
+    <text x="58" y="187" fill="#57534e" font-size="23">Full Stack Developer</text>
+    <text x="58" y="232" fill="#78716c" font-size="16">Egypt · Working worldwide</text>
+    <text x="1144" y="187" text-anchor="end" fill="#a84b20" font-size="18" letter-spacing="1">WEB / ODOO / AI</text>
   </g>
-  <g fill="none" stroke="#3b506b" stroke-width="1.5">
-    <path d="M931 161V198H837V237M931 198H1041V237"/>
-    <rect x="796" y="62" width="270" height="100" rx="12" fill="#111c2b"/>
-    <path d="M796 91H1066"/>
-    <rect x="771" y="237" width="135" height="75" rx="10" fill="#111c2b"/>
-    <rect x="974" y="237" width="135" height="75" rx="10" fill="#111c2b"/>
-  </g>
-  <g fill="#6b7d94"><circle cx="814" cy="77" r="3"/><circle cx="826" cy="77" r="3"/><circle cx="838" cy="77" r="3"/></g>
-  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
-    <text x="931" y="132" fill="#e6edf3" font-size="19" font-weight="600">Customer experience</text>
-    <text x="838" y="282" fill="#c2ccda" font-size="17">Systems</text>
-    <text x="1041" y="282" fill="#c2ccda" font-size="17">Intelligence</text>
-  </g>
-  <circle cx="931" cy="198" r="5" fill="#ff9459"/>
-  <rect x="0" y="374" width="1200" height="6" fill="url(#accent)"/>
 </svg>
