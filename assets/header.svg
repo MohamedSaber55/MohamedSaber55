@@ -1,46 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mohamed Saber — Software Engineer. Web platforms, Odoo ERP, AI chatbots.">
-  <style>
-    .w1 { animation: drift1 24s linear infinite; }
-    .w2 { animation: drift2 17s linear infinite; }
-    @keyframes drift1 { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
-    @keyframes drift2 { from { transform: translateX(0); } to { transform: translateX(-600px); } }
-    .dot  { animation: bob 9s ease-in-out infinite; }
-    .dot2 { animation: bob 13s ease-in-out infinite reverse; }
-    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-9px); } }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Mohamed Saber — Software Engineer">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0EA5E9"/>
-      <stop offset="0.5" stop-color="#6366F1"/>
-      <stop offset="1" stop-color="#A855F7"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
-    <clipPath id="clip">
-      <rect x="0" y="0" width="1200" height="220" rx="20"/>
-    </clipPath>
   </defs>
 
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="220" fill="url(#bgGrad)"/>
+  <rect width="1200" height="200" rx="20" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="19.5" fill="none" stroke="#21262D"/>
 
-    <!-- back wave -->
-    <path class="w2" fill="#FFFFFF" opacity="0.10" d="M0,175 C150,140 300,210 450,175 C600,140 750,210 900,175 C1050,140 1200,210 1350,175 C1500,140 1650,210 1800,175 C1950,140 2100,210 2250,175 C2400,140 2550,210 2700,175 C2850,140 3000,210 3150,175 C3300,140 3450,210 3600,175 L3600,220 L0,220 Z"/>
+  <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" letter-spacing="6" fill="#8B949E">SOFTWARE ENGINEER</text>
 
-    <!-- floating dots -->
-    <circle class="dot"  cx="950" cy="58"  r="5" fill="#FFFFFF" opacity="0.30"/>
-    <circle class="dot2" cx="1035" cy="98" r="3" fill="#FFFFFF" opacity="0.25"/>
-    <circle class="dot"  cx="1108" cy="46" r="4" fill="#FFFFFF" opacity="0.28"/>
-    <circle class="dot2" cx="884" cy="40"  r="3" fill="#FFFFFF" opacity="0.20"/>
-    <circle class="dot"  cx="1000" cy="135" r="4" fill="#FFFFFF" opacity="0.22"/>
-    <circle class="dot2" cx="410" cy="26"  r="3" fill="#FFFFFF" opacity="0.15"/>
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-0.5" fill="#F0F6FC">Mohamed Saber</text>
 
-    <!-- front wave -->
-    <path class="w1" fill="#FFFFFF" opacity="0.16" d="M0,150 C200,110 400,190 600,150 C800,110 1000,190 1200,150 C1400,110 1600,190 1800,150 C2000,110 2200,190 2400,150 L2400,220 L0,220 Z"/>
+  <rect x="568" y="138" width="64" height="3" rx="1.5" fill="url(#accent)"/>
 
-    <!-- text -->
-    <text x="64" y="52" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" letter-spacing="4" fill="#FFFFFF" opacity="0.75">SOFTWARE ENGINEER</text>
-    <text x="63" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="46" font-weight="800" letter-spacing="-0.5" fill="#FFFFFF">Mohamed Saber</text>
-    <text x="64" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#FFFFFF" opacity="0.82">Web Platforms · Odoo ERP · AI Chatbots</text>
-  </g>
-
-  <rect x="0" y="0" width="1200" height="220" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8B949E">Web Platforms · Odoo ERP · AI Chatbots</text>
 </svg>
