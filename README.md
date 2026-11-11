@@ -62,19 +62,23 @@ const mohamed = {
 
 ### GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=374151&text_color=374151&ring_color=111827" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151" alt="Top languages"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=111827&icon_color=374151&text_color=374151&ring_color=111827" alt="GitHub stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=111827&text_color=374151" alt="Top languages"/>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### Contact
 
-If you'd like to discuss a project or collaboration, feel free to reach out.
+Interested in working together? I'm available for freelance projects, consulting, and long-term collaboration.
 
-**[mohamed-saber.com/en/contact](https://www.mohamed-saber.com/en/contact)** · **[LinkedIn](https://www.linkedin.com/in/mohamedsaber5050/)** · **[WhatsApp](https://api.whatsapp.com/send?phone=201210529969)** · **[Telegram](https://t.me/Mo7amed_Saber3)**
+| Channel | Link |
+| --- | --- |
+| Website | [mohamed-saber.com/en/contact](https://www.mohamed-saber.com/en/contact) |
+| LinkedIn | [linkedin.com/in/mohamedsaber5050](https://www.linkedin.com/in/mohamedsaber5050/) |
+| WhatsApp | [+20 121 052 9969](https://api.whatsapp.com/send?phone=201210529969) |
+| Telegram | [@Mo7amed_Saber3](https://t.me/Mo7amed_Saber3) |
 
-<br/>
-
-<sub>I enjoy building practical, reliable products and connecting with people — feel free to say hi.</sub>
+<p align="center">I enjoy building practical, reliable products and connecting with people — feel free to say hi.</p>
