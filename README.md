@@ -1,181 +1,119 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamed+Saber+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-</a>
+<img src="./assets/banner.svg" alt="Mohamed Saber — Software Engineer" width="100%"/>
 
 <br/>
 
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0057FF&height=120&section=header&text=&animation=fadeIn"/>
+<a href="https://www.mohamed-saber.com/en/contact"><img src="./assets/cta-en.svg" alt="Request a project quote" height="52"/></a>
+&nbsp;
+<a href="https://www.mohamed-saber.com/ar/contact"><img src="./assets/cta-ar.svg" alt="اطلب عرض سعر لمشروعك" height="52"/></a>
 
-<!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Profile+Views&color=00d9ff&style=flat-square" alt="profile views"/>
-  <a href="https://www.linkedin.com/in/mohamedsaber5050/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohammed saber.abdeltawab@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+201210529969">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
+  <a href="https://www.mohamed-saber.com/en"><img src="https://img.shields.io/badge/mohamed--saber.com-f97316?style=flat-square&logo=googlechrome&logoColor=0d0d0d&labelColor=0d0d0d" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0d0d" alt="WhatsApp"/></a>
+  <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=0d0d0d" alt="Telegram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MohamedSaber55&label=Views&color=f97316&style=flat-square&labelColor=0d0d0d" alt="Profile views"/>
 </p>
+
+**[English site](https://www.mohamed-saber.com/en) · [الموقع بالعربية](https://www.mohamed-saber.com/ar)**
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🧑‍💻 About Me
+## 👋 Hi, I'm Mohamed
+
+I'm a **Software Engineer**. I build **web apps, Odoo ERP customizations and AI chatbots** with genuine **Arabic + English (RTL-first)** interfaces for businesses in **Egypt and the Gulf** — and clients worldwide. Every project is documented as a case study on my website.
 
 ```ts
 const mohamed = {
-  role        : "Full Stack Developer",
-  location    : "Cairo, Egypt 🇪🇬",
-  education   : "B.Sc. Information Technology — Beni-Suef University (Faculty of Computers & AI)",
-  currentFocus: ["React", "Next.js", "Node.js", "NestJS", "TypeScript"],
-  passion     : "Turning ideas into elegant, scalable web experiences",
-  available   : true, // Open to exciting opportunities!
-  funFact     : "I debug faster with coffee ☕",
+  role: "Software Engineer",
+  location: "Egypt 🇪🇬",
+  education: "B.Sc. Information Technology — Beni-Suef University (Computers & AI)",
+  stack: ["React", "Next.js", "Node.js", "NestJS", "TypeScript", "MongoDB", "Odoo"],
+  languages: ["العربية", "English"],
+  availableForFreelance: true,
 };
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 💼 Work Experience
+## 🧰 What I build
 
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/>
-    </td>
-    <td>
-      <strong>EngoSoft</strong> — <em>Front End Developer</em><br/>
-      📍 On-site · Cairo, Egypt &nbsp;|&nbsp; 📅 May 2025 – Present<br/>
-      <sub>Currently contributing to production-grade web applications at EngoSoft.</sub>
-    </td>
+    <td><a href="https://www.mohamed-saber.com/en/services/web-development"><img src="./assets/s1.svg" alt="Web apps & dashboards"/></a></td>
+    <td><a href="https://www.mohamed-saber.com/en/services/odoo-erp-solutions"><img src="./assets/s2.svg" alt="Odoo ERP"/></a></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/fluency/48/000000/pharmacy-shop.png" width="40"/>
-    </td>
-    <td>
-      <strong>Nasser Pharmacy (Remza Investment Co.)</strong> — <em>Front End Developer</em><br/>
-      📍 Remote &nbsp;|&nbsp; 📅 Aug 2024 – Apr 2025<br/>
-      <sub>Developed and maintained a pharmacy-focused web platform serving customers across regions.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="40"/>
-    </td>
-    <td>
-      <strong>AiTech</strong> — <em>Front End Developer</em><br/>
-      📍 On-site · 6th of October, Egypt &nbsp;|&nbsp; 📅 Jan 2024 – Jul 2024<br/>
-      <sub>Built responsive interfaces and collaborated with cross-functional teams on AI-powered products.</sub>
-    </td>
+    <td><a href="https://www.mohamed-saber.com/en/services/chatbot-development"><img src="./assets/s3.svg" alt="AI chatbots & automation"/></a></td>
+    <td><a href="https://www.mohamed-saber.com/en/services"><img src="./assets/s4.svg" alt="Arabic + English RTL"/></a></td>
   </tr>
 </table>
 
----
+## 🚀 Selected work
 
-## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td><a href="https://www.mohamed-saber.com/en/projects/saudi-internet-packages-platform"><img src="./assets/p1.svg" alt="Saudi Internet Packages Platform"/></a></td>
+    <td><a href="https://www.mohamed-saber.com/en/projects/kidentials-multi-vendor-marketplace"><img src="./assets/p2.svg" alt="Kidentials Marketplace"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mohamed-saber.com/en/projects/dr-sally-mounir-therapy-and-booking-platform"><img src="./assets/p3.svg" alt="Dr. Sally Mounir platform"/></a></td>
+    <td><a href="https://www.mohamed-saber.com/en/projects/moqauel-contractor-management-saas-platform"><img src="./assets/p4.svg" alt="Moqauel SaaS"/></a></td>
+  </tr>
+</table>
 
-### 🎨 Frontend
+<div align="center"><a href="https://www.mohamed-saber.com/en/projects"><b>All projects & case studies →</b></a></div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,js,ts,jquery,react,redux,nextjs&theme=dark&perline=6" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-### ⚙️ Backend
+## 🛠️ Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,mysql,sequelize&theme=dark&perline=7" />
-</p>
+<img src="./assets/stack.svg" width="100%" alt="React, Next.js, TypeScript, Node.js, NestJS, MongoDB, GraphQL, Odoo, Python and more"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+## 💼 Experience
 
-### 🎨 Design & Tools
+| | Role | When |
+|---|---|---|
+| **EngoSoft** · Cairo | Front End Developer | May 2025 – Present |
+| **Nasser Pharmacy** (Remza Investment Co.) · Remote | Front End Developer | Aug 2024 – Apr 2025 |
+| **AiTech** · 6th of October | Front End Developer | Jan 2024 – Jul 2024 |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,git,github,vscode,python,npm&theme=dark&perline=9" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&hide_border=false&border_color=262626&bg_color=0d0d0d&title_color=f97316&icon_color=eab308&text_color=fafafa&ring_color=f97316" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&langs_count=8&hide_border=false&border_color=262626&bg_color=0d0d0d&title_color=f97316&text_color=fafafa" alt="Top languages"/>
+</div>
 
-<a href="https://github.com/MohamedSaber55">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedSaber55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaber55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
+## 🌱 Currently
 
-<br/>
+- 🔭 Building production apps at **EngoSoft**
+- 📚 Going deeper on **NestJS, GraphQL and microservices**
+- 🤖 Exploring **AI integrations** in web products
+- 🤝 Open to freelance work and open-source collaboration
 
-<a href="https://github.com/MohamedSaber55">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSaber55&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
-</a>
+<details>
+<summary><b>🇪🇬 بالعربية</b></summary>
 
-<br/>
+<div dir="rtl">
 
-<!-- Activity Graph -->
-<a href="https://github.com/MohamedSaber55">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSaber55&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=0057ff&point=ffffff" alt="activity graph"/>
-</a>
+<img src="./assets/banner-ar.svg" alt="محمد صابر — مهندس برمجيات" width="100%"/>
+
+أنا **مهندس برمجيات**، وأبني **تطبيقات ويب وأنظمة Odoo وروبوتات محادثة بالذكاء الاصطناعي** بواجهات عربية وإنجليزية حقيقية للشركات في مصر والخليج. [اطلب عرض سعر لمشروعك](https://www.mohamed-saber.com/ar/contact).
 
 </div>
 
----
+</details>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedSaber55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently building production apps at **EngoSoft**
-- 🌱 Deepening expertise in **NestJS**, **GraphQL**, and **microservices architecture**
-- 🤝 Open to collaborating on **open-source** and **innovative web projects**
-- 📚 Exploring **AI integrations** in web development
-- 💡 Goal: Stay sharp, ship great products, and never stop learning
-
----
-
-## 🤝 Connect With Me
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedsaber5050/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mo7amedsaber5050/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mo7amedsaber5050/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mo7amed_Saber3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed saber.abdeltawab@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+201210529969)
+<em>Code is not just logic — it's craft.</em>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00D9FF&height=100&section=footer"/>
-
-<em>"Code is not just logic — it's craft."</em>
-
-⭐️ **If you like what you see, consider starring some of my repositories!**
+⭐ If you like what you see, consider starring a repo.
 
 </div>
