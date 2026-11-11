@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Mohamed Saber — Software Engineer">
   <rect width="1200" height="180" fill="#FFFFFF"/>
+  <rect x="60" y="40" width="48" height="4" fill="#2563EB"/>
   <rect x="60" y="156" width="1080" height="1" fill="#E5E7EB"/>
-  <text x="60" y="82" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#111827" letter-spacing="-0.6">Mohamed Saber</text>
-  <text x="60" y="118" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="400" fill="#4B5563">Software Engineer — Web Applications, Odoo ERP, AI Chatbots</text>
-  <text x="1140" y="118" text-anchor="end" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="15" fill="#6B7280">Egypt · Egypt &amp; GCC</text>
+  <text x="60" y="88" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#111827" letter-spacing="-0.6">Mohamed Saber</text>
+  <text x="60" y="122" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#2563EB">Software Engineer</text>
+  <text x="270" y="122" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="400" fill="#4B5563"> — Web Applications, Odoo ERP, AI Chatbots</text>
+  <text x="1140" y="122" text-anchor="end" font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="15" fill="#6B7280">Egypt · Egypt &amp; GCC</text>
 </svg>

@@ -5,12 +5,12 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.mohamed-saber.com/en">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.mohamed-saber.com/en/projects">Projects</a> &nbsp;·&nbsp;
-  <a href="https://www.mohamed-saber.com/en/services">Services</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mohamedsaber5050/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=201210529969">WhatsApp</a> &nbsp;·&nbsp;
-  <a href="https://t.me/Mo7amed_Saber3">Telegram</a>
+  <a href="https://www.mohamed-saber.com/en"><img src="https://img.shields.io/badge/Website-Visit-2563EB?style=flat-square&labelColor=EFF6FF" alt="Website"/></a>
+  <a href="https://www.mohamed-saber.com/en/projects"><img src="https://img.shields.io/badge/Projects-Case_Studies-2563EB?style=flat-square&labelColor=EFF6FF" alt="Projects"/></a>
+  <a href="https://www.mohamed-saber.com/en/services"><img src="https://img.shields.io/badge/Services-Explore-2563EB?style=flat-square&labelColor=EFF6FF" alt="Services"/></a>
+  <a href="https://www.linkedin.com/in/mohamedsaber5050/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&labelColor=EFF6FF" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201210529969"><img src="https://img.shields.io/badge/WhatsApp-Message-2563EB?style=flat-square&labelColor=EFF6FF" alt="WhatsApp"/></a>
+  <a href="https://t.me/Mo7amed_Saber3"><img src="https://img.shields.io/badge/Telegram-Message-2563EB?style=flat-square&labelColor=EFF6FF" alt="Telegram"/></a>
 </p>
 
 <p align="center">
