@@ -1,54 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="Technology stack">
-  <defs>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.05" stop-color="#fff"/>
-      <stop offset="0.95" stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="m"><rect width="1200" height="64" fill="url(#fade)"/></mask>
-  </defs>
-  <g mask="url(#m)">
-    <g id="track" transform="translate(0,12)">
-      <animateTransform attributeName="transform" type="translate" from="0,12" to="-2140,12" dur="32s" repeatCount="indefinite"/>
-      <!-- set 1 -->
-      <g>
-        <g transform="translate(0,0)"><rect width="92" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">React</text></g>
-        <g transform="translate(104,0)"><rect width="108" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Next.js</text></g>
-        <g transform="translate(224,0)"><rect width="132" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">TypeScript</text></g>
-        <g transform="translate(368,0)"><rect width="110" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Node.js</text></g>
-        <g transform="translate(490,0)"><rect width="100" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">NestJS</text></g>
-        <g transform="translate(602,0)"><rect width="118" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">MongoDB</text></g>
-        <g transform="translate(732,0)"><rect width="112" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">GraphQL</text></g>
-        <g transform="translate(856,0)"><rect width="88" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Odoo</text></g>
-        <g transform="translate(956,0)"><rect width="100" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Python</text></g>
-        <g transform="translate(1068,0)"><rect width="136" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Tailwind CSS</text></g>
-        <g transform="translate(1216,0)"><rect width="130" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">PostgreSQL</text></g>
-        <g transform="translate(1358,0)"><rect width="96" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Docker</text></g>
-        <g transform="translate(1466,0)"><rect width="70" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Git</text></g>
-        <g transform="translate(1548,0)"><rect width="142" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">RTL &amp; i18n</text></g>
-        <g transform="translate(1702,0)"><rect width="150" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">AI Integrations</text></g>
-        <g transform="translate(1864,0)"><rect width="140" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">REST APIs</text></g>
-      </g>
-      <!-- duplicate set for seamless loop -->
-      <g transform="translate(2140,0)">
-        <g transform="translate(0,0)"><rect width="92" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">React</text></g>
-        <g transform="translate(104,0)"><rect width="108" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Next.js</text></g>
-        <g transform="translate(224,0)"><rect width="132" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">TypeScript</text></g>
-        <g transform="translate(368,0)"><rect width="110" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Node.js</text></g>
-        <g transform="translate(490,0)"><rect width="100" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#F59E0B"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">NestJS</text></g>
-        <g transform="translate(602,0)"><rect width="118" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">MongoDB</text></g>
-        <g transform="translate(732,0)"><rect width="112" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">GraphQL</text></g>
-        <g transform="translate(856,0)"><rect width="88" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Odoo</text></g>
-        <g transform="translate(956,0)"><rect width="100" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#38BDF8"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Python</text></g>
-        <g transform="translate(1068,0)"><rect width="136" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Tailwind CSS</text></g>
-        <g transform="translate(1216,0)"><rect width="130" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">PostgreSQL</text></g>
-        <g transform="translate(1358,0)"><rect width="96" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Docker</text></g>
-        <g transform="translate(1466,0)"><rect width="70" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#A78BFA"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">Git</text></g>
-        <g transform="translate(1548,0)"><rect width="142" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">RTL &amp; i18n</text></g>
-        <g transform="translate(1702,0)"><rect width="150" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">AI Integrations</text></g>
-        <g transform="translate(1864,0)"><rect width="140" height="40" rx="12" fill="#0F172A" stroke="#1F2937"/><circle cx="18" cy="20" r="4" fill="#34D399"/><text x="30" y="25" font-family="ui-monospace,Consolas,monospace" font-size="14" fill="#E5E7EB">REST APIs</text></g>
-      </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="Technology stack">
+  <rect width="1200" height="56" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <g font-family="ui-monospace, 'SFMono-Regular', Consolas, monospace" font-size="14" fill="#334155">
+    <text x="24" y="34">React</text><text x="84" y="34" fill="#CBD5E1">/</text>
+    <text x="102" y="34">Next.js</text><text x="172" y="34" fill="#CBD5E1">/</text>
+    <text x="190" y="34">TypeScript</text><text x="286" y="34" fill="#CBD5E1">/</text>
+    <text x="304" y="34">Node.js</text><text x="378" y="34" fill="#CBD5E1">/</text>
+    <text x="396" y="34">NestJS</text><text x="462" y="34" fill="#CBD5E1">/</text>
+    <text x="480" y="34">MongoDB</text><text x="558" y="34" fill="#CBD5E1">/</text>
+    <text x="576" y="34">PostgreSQL</text><text x="676" y="34" fill="#CBD5E1">/</text>
+    <text x="694" y="34">GraphQL</text><text x="766" y="34" fill="#CBD5E1">/</text>
+    <text x="784" y="34">Odoo</text><text x="834" y="34" fill="#CBD5E1">/</text>
+    <text x="852" y="34">Python</text><text x="918" y="34" fill="#CBD5E1">/</text>
+    <text x="936" y="34">Tailwind CSS</text><text x="1050" y="34" fill="#CBD5E1">/</text>
+    <text x="1068" y="34">Docker &amp; Git</text>
   </g>
 </svg>
