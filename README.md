@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Mohamed Saber — Software Engineer · Web platforms, Odoo ERP, AI chatbots" width="100%"/>
+  <a href="https://www.mohamed-saber.com/en">
+    <img src="./assets/website-hero.png" alt="mohamed-saber.com — Mohamed Saber, Full Stack Developer · MERN · Odoo · AI" width="100%"/>
+  </a>
+  <br/>
+  <sub><b><a href="https://www.mohamed-saber.com/en">mohamed-saber.com</a></b> — my portfolio &amp; services: client projects, case studies, and a direct line for freelance work.</sub>
 </div>
 
 <br/>
@@ -27,16 +31,6 @@ Over the past few years I've built software with **Nasser Pharmacy** and **AiTec
 - 🤖 **AI chatbots & automation** — assistants and pipelines that quietly save teams hours every week
 - 🎨 **RTL-first interfaces** — polished bilingual UIs that are designed for Arabic, not translated into it
 - 💼 **Freelance & consulting** — helping agencies and businesses in Egypt & the GCC ship faster
-
-## 🌐 My Website
-
-<a href="https://www.mohamed-saber.com/en">
-  <img src="./assets/website-hero.png" alt="mohamed-saber.com — Mohamed Saber, Full Stack Developer · MERN · Odoo · AI" width="100%"/>
-</a>
-
-<div align="center">
-  <sub><b><a href="https://www.mohamed-saber.com/en">mohamed-saber.com</a></b> — my portfolio & services: client projects, case studies, and a direct line for freelance work.</sub>
-</div>
 
 ## 🐍 Contribution Snake
 
